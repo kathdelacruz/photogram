@@ -1,0 +1,17 @@
+{
+  "name": "platzigram",
+  "version": "0.1.0",
+  "description": "Comparte tus fotos estudiando con el resto de la comunidad",
+  "main": "server.js",
+  "author": "katherine",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "materialize-css": "^0.97.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2"
+  }
+}
