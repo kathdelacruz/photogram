@@ -5,7 +5,7 @@ $secondary-color: #125688;
 body {
   background: #fafafa;
   color: #125688;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 
 #main-container {
@@ -16,8 +16,8 @@ body {
   max-width: 100%;
 }
 
-.side-footer {
-  transform: uppercase;
+.site-footer {
+  text-transform: uppercase;
   font-size: 12px;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 .signup-box .platzigram {
-  font-family: 'Oleo Script', cursive;
+  font-family: 'Oleo Script';
   font-size: 42px;
 }
 

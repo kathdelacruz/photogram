@@ -1,13 +1,6 @@
 var page = require('page');
 
-var main = document.getElementById('main-container');
-
-page('/', function(ctx, next) {
-  main.innerHTML = 'Home <a href="/signup">Signup2</a>';
-})
-
-page('/signup', function(ctx, next) {
-  main.innerHTML = 'Signup <a href="/">Hoome</a>';
-})
+require('./homepage');
+require('./signup');
 
 page();
