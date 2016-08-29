@@ -10,7 +10,7 @@ page('/', function (ctx, next) {
   var pictures = [
     {
       user: {
-        username: 'slifszyc',
+        username: 'cmartin',
         avatar: 'https://s-media-cache-ak0.pinimg.com/236x/77/9f/b5/779fb5b2fc3f108222f15e1a2f96d0b1.jpg'
       },
       url: 'office.jpg',
@@ -19,7 +19,7 @@ page('/', function (ctx, next) {
     },
     {
       user: {
-        username: 'slifszyc',
+        username: 'cmartin',
         avatar: 'https://s-media-cache-ak0.pinimg.com/236x/77/9f/b5/779fb5b2fc3f108222f15e1a2f96d0b1.jpg'
       },
       url: 'office.jpg',
